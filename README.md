@@ -7,3 +7,4 @@ Minimalist Design: Emphasizes simplicity and visual clarity.
 Clean Code: Organized and maintainable code structure following best practices.
 Feel free to explore the code and share your feedback!
 
+live link : https://frontend-challange.netlify.app/
